@@ -33,7 +33,9 @@ Model Training:
 Implement a CNN architecture suitable for emotion classification. Train and fine-tune the model with the FER-2013 dataset.
 
 Evaluation:
-After training, evaluate the model using validation datasets and compute metrics such as accuracy, precision, recall, and F1 score.
+Multiple pre-trained CNN models, including DenseNet, ResNet, VGG, MobileNet, EfficientNet, and a custom CNN, are used to classify emotions such as 'angry', 'disgust', 'fear', 'happy', 'sad', 'surprise', and 'neutral'.
+
+Ethical Considerations:.
 
 5.Integration and Testing:
 
